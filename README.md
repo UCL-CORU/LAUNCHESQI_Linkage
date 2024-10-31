@@ -17,5 +17,5 @@ The other 3 csv files used to process postcodes were:
 
 ## How to cite this work
 
-Espuny Pujol F, Pagel C, Brown KL, et al. Linkage of National Congenital Heart Disease Audit data to hospital, critical care and mortality national data sets to enable research focused on quality improvement. BMJ Open 2022;12:e057343. doi: 10.1136/bmjopen-2021-057343
+> Espuny Pujol F, Pagel C, Brown KL, et al. Linkage of National Congenital Heart Disease Audit data to hospital, critical care and mortality national data sets to enable research focused on quality improvement. BMJ Open 2022;12:e057343. [doi: 10.1136/bmjopen-2021-057343](https://bmjopen.bmj.com/content/12/5/e057343)
 
